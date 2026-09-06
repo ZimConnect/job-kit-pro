@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Job Kit Pro",
+    "slug": "job-kit-pro",
+    "version": "3.0.0",
+    "android": {
+      "package": "com.yourname.jobkitpro3",
+      "versionCode": 3,
+      "permissions": ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"]
+    }
+  }
+}
